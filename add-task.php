@@ -16,7 +16,7 @@
         
         <a class="btn-secondary" href="<?php echo SITEURL; ?>">Home</a>
         
-        <h3>Add Task Page</h3>
+        <h3>Add TaskPage</h3>
         
         <p>
             <?php 

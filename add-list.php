@@ -43,7 +43,7 @@
             
             <table class="tbl-half">
                 <tr>
-                    <td>List Name: </td>
+                    <td>ListName: </td>
                     <td><input type="text" name="list_name" placeholder="Type list name here" required="required" /></td>
                 </tr>
                 <tr>
